@@ -49,4 +49,5 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-<img width="1440" height="900" alt="Screen Shot 2026-02-25 at 06 32 04" src="https://github.com/user-attachments/assets/c46e4df6-68d2-4573-b363-fbb24b2181b7" />
+<img width="1440" height="900" alt="Screen Shot 2026-02-25 at 06 41 29" src="https://github.com/user-attachments/assets/78223e11-c143-4ed0-a743-ea0b0e8b156e" />
+
